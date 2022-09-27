@@ -1,0 +1,15 @@
+C:\Users\Serratec\Desktop\Demos\bin\Debug\net6.0\Demos.exe
+C:\Users\Serratec\Desktop\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\Users\Serratec\Desktop\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\Serratec\Desktop\Demos\bin\Debug\net6.0\Demos.dll
+C:\Users\Serratec\Desktop\Demos\bin\Debug\net6.0\Demos.pdb
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.dll
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\refint\Demos.dll
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.pdb
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+C:\Users\Serratec\Desktop\Demos\obj\Debug\net6.0\ref\Demos.dll
